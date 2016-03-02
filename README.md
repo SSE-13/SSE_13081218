@@ -13,4 +13,11 @@
 <br>![](http://p3.image.hiapk.com/uploads/allimg/150210/7730-150210105447.jpg)
 [小公举结婚照](http://tieba.baidu.com/f?kw=%D6%DC%BD%DC%C2%D7&fr=ala0&loc=rec)
 ## 代码片段
-
+```
+#include<stdio.h>
+    main()
+    {
+        printf("\nHello world!\n");
+        printf("My name is Weng Jianwei");
+    }
+```
