@@ -9,4 +9,4 @@
 <br>[圣东安尼奥马刺队](http://baike.baidu.com/link?url=HjjCKq96IvQsvVFj7DdMYEEoELyrgEaRvBqcu4S2iiiugwPjzWyuQBCfkMfWZm7SFeFbcR2V_0tfzyKiSnHKL9okybadHYlZ5RO-M_kxMnv9VnRqJTWZT_37gZz4i55WjTKAlGX8b5mafHONsC6e4OiwK8-XRHzMXnHpxlWZMNBIumy_0u_flB_LDsejX0uE6K89x0-lh21SAh_04NuTg_)
 ## 图片链接
 ![](http://pic15.nipic.com/20101228/6537223_122608093164_2.jpg)
-[海南博鳌](http://baike.baidu.com/subview/61808/6581245.htm)
+[海南琼海](http://baike.baidu.com/subview/61808/6581245.htm)
