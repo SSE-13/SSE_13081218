@@ -11,4 +11,4 @@
 ![](http://pic15.nipic.com/20101228/6537223_122608093164_2.jpg)
 [海南琼海](http://baike.baidu.com/subview/61808/6581245.htm)
 <br>![](http://p3.image.hiapk.com/uploads/allimg/150210/7730-150210105447.jpg)
-[小公举结婚照]
+[小公举结婚照](http://tieba.baidu.com/f?kw=%D6%DC%BD%DC%C2%D7&fr=ala0&loc=rec)
